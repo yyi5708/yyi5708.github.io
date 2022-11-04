@@ -89,7 +89,9 @@ button {
     border-radius: 25px;
     text-align: center;
     align-items: center;
+    display: flex;
     justify-content: center;
+    margin: auto;
 }
 
 button:hover {
