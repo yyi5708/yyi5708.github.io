@@ -105,7 +105,10 @@ button:hover {
     align-items: center;
     padding: 0rem 2rem;
     text-align: center;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
 }
 
 .hero-image {
