@@ -20,6 +20,8 @@ nav {
     color: #000;
     font-size: 4rem;
     font-weight: bold;
+    font-style: italic;
+    text-underline-position: auto;
     padding: 0 2rem;
     text-align: center;
     align-items: center;
