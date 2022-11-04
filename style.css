@@ -91,8 +91,10 @@ button {
     align-items: center;
     display: flex;
     justify-content: center;
-    margin: auto;
-}
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;}
 
 button:hover {
     background: #fff;
