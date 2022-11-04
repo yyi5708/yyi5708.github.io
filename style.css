@@ -75,7 +75,7 @@ button {
     color: #fdcc04;
     background: #000;
     cursor: pointer;
-    border-radius: 50px;
+    border-radius: 25px;
 }
 
 button:hover {
@@ -88,6 +88,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     padding: 0rem 2rem;
+    border: 5px solid #000;
 }
 
 .hero-image {
