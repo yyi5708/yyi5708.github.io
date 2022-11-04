@@ -10,10 +10,9 @@ nav {
     background: #fdcc04;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 0rem calc((100vw - 1300px) / 2);
     text-align: center;
-    align-items: center;
-    margin: auto;
 }
 
 .logo {
@@ -23,10 +22,6 @@ nav {
     font-style: italic;
     padding: 0 2rem;
     text-align: center;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    margin: auto;
     align-items: center;
 }
 
@@ -40,7 +35,6 @@ nav a {
     border-radius: 25px;
     text-align: center;
     align-items: center;
-    margin: auto;
 }
 
 nav a:hover {
