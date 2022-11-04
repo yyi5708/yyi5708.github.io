@@ -23,18 +23,18 @@ nav {
 }
 
 nav a {
-    color: #fdcc04;
     padding: 1rem 3rem;
     font-size: 1rem;
     border: none;
+    color: #fdcc04;
     background: #000;
     cursor: pointer;
     border-radius: 25px;
 }
 
 nav a:hover {
-    color: #000;
     background: #fff;
+    color: #000;
 }
 
 .hero {
