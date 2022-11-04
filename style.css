@@ -87,6 +87,7 @@ button {
     border-radius: 25px;
     text-align: center;
     align-items: center;
+    justify-content: center;
 }
 
 button:hover {
